@@ -1,0 +1,2 @@
+rootProject.name = "ElectCom"
+include ':app'
