@@ -1,0 +1,10 @@
+ID=112
+Nombre=david
+Apellido=caldero
+Edad=12
+Direccion=cadas
+Sexo=Masculino
+Ciudad=Atlántico
+Correo=dvshs
+Usuario=hshhdj
+Password=dhchchchf

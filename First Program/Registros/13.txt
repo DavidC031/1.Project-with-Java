@@ -1,0 +1,10 @@
+ID=13
+Nombre=sasdd
+Apellido=lius
+Edad=12
+Direccion=xsfe
+Sexo=Masculino
+Ciudad=Atlántico
+Correo=sadsddaads
+Usuario=sader
+Password=desss

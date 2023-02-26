@@ -1,0 +1,10 @@
+ID=1
+Nombre=sazaaz
+Apellido=xs
+Edad=12
+Direccion=asssd
+Sexo=Masculino
+Ciudad=Atlántico
+Correo=ssgsgsgshs
+Usuario=zvzzgzg
+Password=sccczcc

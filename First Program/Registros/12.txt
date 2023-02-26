@@ -1,0 +1,10 @@
+ID=12
+Nombre=david
+Apellido=calderon
+Edad=12
+Direccion=cra 12 
+Sexo=Masculino
+Ciudad=Antioquia
+Correo=david@dss
+Usuario=davidsdcscswqd
+Password=sdsfsfsdfs1123

@@ -1,0 +1,10 @@
+ID=17
+Nombre=david
+Apellido=daccwdw
+Edad=1232
+Direccion=cal 2321
+Sexo=Masculino
+Ciudad=Atlántico
+Correo=sgsagshhh
+Usuario=xbbncndhd
+Password=xbxbbdbdbd
